@@ -1,3 +1,4 @@
 .env
 *__pycache__
 *train.pkl
+*chroma_db
