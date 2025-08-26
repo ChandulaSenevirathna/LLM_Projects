@@ -1,5 +1,5 @@
 .env
 *__pycache__
-*train.pkl
+*.pkl
 *chroma_db
 *products

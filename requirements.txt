@@ -45,3 +45,4 @@ feedparser
 bitsandbytes
 peft
 trl
+mcp[cli]
