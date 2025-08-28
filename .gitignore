@@ -3,3 +3,4 @@
 *.pkl
 *chroma_db
 *products
+*models
