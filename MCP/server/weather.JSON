@@ -1,0 +1,15 @@
+{
+    "mcpServers":{
+        "weather": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\chandula\\Documents\\VS_Code\\LLM_Projects\\MCP\\server\\weather.py"
+      ]
+    }
+}
+}
